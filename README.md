@@ -25,8 +25,6 @@ This project is an **interactive Power BI dashboard** built during my internship
 - **Data Cleaning & Transformation (Power Query)**
 - **Visualization Techniques**
 
-## 🔹 Project Screenshots
-
 ## 🔹 How to Use
 1. Download the `.pbix` file from the `powerbi/` folder.
 2. Open it in Power BI Desktop.
